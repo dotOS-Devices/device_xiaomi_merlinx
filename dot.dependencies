@@ -1,23 +1,17 @@
 [
-  {
-    "repository" : "kernel_xiaomi_mt6768",
-    "target_path": "kernel/xiaomi/mt6768",
-    "branch"     : "dot11"
-  },
-  {
-    "repository" : "DotOS/android_device_mediatek_sepolicy",
-    "target_path": "device/mediatek/sepolicy",
-    "remote"     : "github",
-    "branch"     : "dot11"
-  },
-  {
-    "repository" : "vendor_xiaomi_merlinx",
-    "target_path": "vendor/xiaomi/merlinx"
-    "branch"     : "dot11"
-  },
-  {
-    "repository" : "device_xiaomi_mt6768-common",
-    "target_path": "device/xiaomi/mt6768-common"
-    "branch"     : "dot11"
-  }
+   {
+      "repository":"kernel_xiaomi_mt6768",
+      "target_path":"kernel/xiaomi/mt6768",
+      "branch":"dot11"
+   },
+   {
+      "repository":"vendor_xiaomi_merlinx",
+      "target_path":"vendor/xiaomi/merlinx",
+      "branch":"dot11"
+   },
+   {
+      "repository":"device_xiaomi_mt6768-common",
+      "target_path":"device/xiaomi/mt6768-common",
+      "branch":"dot11"
+   }
 ]
